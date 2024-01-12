@@ -1,28 +1,35 @@
-# Task-Manager-gitTask
-### The following program helps a business to manage tasks assigned to each member. It offers functionality like adding users, adding and viewing tasks.
+### Task-Manager-gitTask: Streamline Your Team's Workflow
 
-### Please note that the following functionality has been coded into the program. Whenever there is user input required, the following scenarios are applicable:
-### 1. If the user enters nothing or a string where a number is required:
-### 2. The error is caught and the user is requested to enter correct data. 
-### 3. This is accomplished either by a loop or try / except.
-### 4. The user can enter -1 at any time to return to the main menu except at login and when already at the main menu.
+Welcome to Task-Manager-gitTask, your one-stop solution for effortless task management! 
+Designed to empower teams and boost productivity, this program offers a user-friendly interface and a robust set of features to keep your projects on track.
 
-### The following libraries are imported to increase functionality to the program.
-### * import os
-### * from datetime import datetime
-### * import time
+#### Key Features:
 
-## FUNCTIONS 
-### * Loop through the users list and check if the user inputs the username and corresponding password correctly. 
-### * If the user does not enter a correct username or password, the user is notified and requested to retry.
-### * If the user inputs 'r' the user can add a new user.
-### * The user is requested to enter a username and password to add. The user must confirm the password.
-### * If the passwords do not match the user is requested to retry. Only the admin is allowed to register users.
-### * If the user inputs 'a' the user can add a new task.
-### * The user is requested to input the various details and the task printed to the text file.
-### * If the user inputs 'vm' all the tasks associated with that user is printed. 
-### * The program checks and prints only information associated with the current logged in user.
-### * The user is requested to choose a task number to edit.
-### * After choosing a task number, the user can either mark the task as complete, or edit the username and due date.
-### * If the user enters 'ds' and the user happens to be the "admin", various statistics are shown to the user on screen and the corresponding reports that are generated in text files.
-### * In the event that the user inputs 'gr', then reports will be generated with statistics about the tasks and each user. The logged in user must be "admin" to access this function.
+∙ User Management: Easily add new users and assign tasks efficiently.  
+
+∙ Task Management: Create, view, edit, and complete tasks with ease.
+
+∙ Personalized Task Views: See only the tasks relevant to you, ensuring a focused workspace.
+
+∙ Comprehensive Reporting: Generate insightful reports on task completion, user activity, and overall progress.
+
+∙ Administrative Control: Manage user access and view detailed statistics, ensuring project oversight.
+
+∙ Intuitive Navigation: Effortlessly navigate the program with clear menus and user-friendly prompts.
+
+∙ Robust Input Handling: The program gracefully handles unexpected inputs, guiding users towards correct data entry.
+
+∙ Secure Data Handling: Password protection and careful data management safeguard confidentiality.
+
+Quick Overview:
+
+1. Login: Access the program using a valid username and password.
+2. Main Menu: Discover a range of options to manage users, tasks, and reports.
+3. Add Users (Admin Only): Expand your team by registering new users with unique usernames and passwords.
+4. Add Tasks: Effortlessly create new tasks with detailed descriptions, due dates, and assigned users.
+5. View My Tasks: See a personalized list of tasks assigned to you, staying on top of your workload.
+6. Edit Tasks: Modify task details, mark tasks as complete, or change assignments as needed.
+7. View Statistics (Admin Only): Gain valuable insights into task progress and user activity.
+8. Generate Reports (Admin Only): Create comprehensive reports for in-depth analysis and decision-making.
+
+#### Embrace Efficient Task Management with Task-Manager-gitTask and Experience the Power of Organized Workflows!
