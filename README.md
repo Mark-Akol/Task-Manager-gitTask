@@ -6,12 +6,12 @@ Designed to empower teams and boost productivity, this program offers a user-fri
 #### Key Features:
 
 • User Management: Easily add new users and assign tasks efficiently.  
-• Task Management: Create, view, edit, and complete tasks with ease.
-• Personalized Task Views: See only the tasks relevant to you, ensuring a focused workspace.
-• Comprehensive Reporting: Generate insightful reports on task completion, user activity, and overall progress.
-• Administrative Control: Manage user access and view detailed statistics, ensuring project oversight.
-• Intuitive Navigation: Effortlessly navigate the program with clear menus and user-friendly prompts.
-• Robust Input Handling: The program gracefully handles unexpected inputs, guiding users towards correct data entry.
+• Task Management: Create, view, edit, and complete tasks with ease.  
+• Personalized Task Views: See only the tasks relevant to you, ensuring a focused workspace.   
+• Comprehensive Reporting: Generate insightful reports on task completion, user activity, and overall progress.  
+• Administrative Control: Manage user access and view detailed statistics, ensuring project oversight.  
+• Intuitive Navigation: Effortlessly navigate the program with clear menus and user-friendly prompts.  
+• Robust Input Handling: The program gracefully handles unexpected inputs, guiding users towards correct data entry.  
 • Secure Data Handling: Password protection and careful data management safeguard confidentiality.
 
 Quick Overview:
